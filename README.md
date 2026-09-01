@@ -1,4 +1,4 @@
-# PORTFOLIO - WORDPRESS PROJECT - UPDATED : 2026-08-30
+# PORTFOLIO - WORDPRESS PROJECT - UPDATED : 2026-09-01
 
 In order to practice website creation with Wordpress, I imagined this project : a wordpress website for a fictional scientific culture association.
 
