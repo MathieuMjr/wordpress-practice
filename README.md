@@ -4,7 +4,7 @@ In order to practice website creation with Wordpress, I imagined this project : 
 
 In this readme file, I will keep track of my tasks, reflections, designs and overviews of my work.
 
-IA is used as a mentor. I intentionally chosen not to generate code with it so I can learn by practice and build strong knowledge, skill and understanding of concepts and languages. 
+IA is used as less as possible, and if so, as a mentor. I intentionally chosen not to generate code with it so I can learn by practice and build strong knowledge, skill and understanding of concepts and languages. 
 
 ## TO-DO List
 - Identify the many contents to display (pages names, forms, calendars, shop...) and imagine the hierarchy of pages
