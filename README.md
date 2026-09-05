@@ -87,6 +87,10 @@ Footer
 	Newsletter(s)
 	Pro content navigation : You are... (schools, teachers, press, pros)
 		Teachers
+			Group visit
+			Itinerant exhibitions
+			Itinerant workshop
+			Customised project
 		Professionals
 		Press
 	Address, contacts, about us (nav)
