@@ -1,4 +1,4 @@
-# PORTFOLIO - WORDPRESS PROJECT - UPDATED : 2026-09-05
+# PORTFOLIO - WORDPRESS PROJECT - UPDATED : 2026-09-06
 
 In order to practice website creation with Wordpress, I imagined this project : a wordpress website for a fictional scientific culture association.
 
@@ -16,7 +16,21 @@ IA is used as less as possible, and if so, as a mentor. I intentionally chosen n
 - Implement modules  (calendar, blog/news feed, online payment)
 
 ## PROBLEMATIC :
-The association evolve in the field of scientific culture and popularization. It has many activities to promote to different publics : 
+The association evolve in the field of scientific culture and popularization. In order to promote their many activities and informations, they'd like to create a website.
+
+### Publics :
+\# Core targets
+1. Families, general publics - looking for exhibitions, workshops for kids
+2. Schools - looking for exhibitions and visits for pedagogical purposes
+3. Young adults and teenagers - looking for special events about science (conference)
+\# Secondaries targets
+4. Cultural sector actors - looking for ressources (light exhibitions to rent) and/or help to build a project
+5. Press - looking for first hand communication elements
+6. Public financiers - to give information on association activities that fulfil public policies
+7. Private partners - that want to support/get involved  with the association for image consideration
+8. Volunteers that would like to join volunteer communities - this is not a major consideration for the association because its activities rely mostly on fulltime employees
+
+### Contents :
 - Current exhibitions
 - On site workshops 
 - Events such as conferences, science festivals, scientific live shows...
@@ -26,7 +40,17 @@ The association evolve in the field of scientific culture and popularization. It
 - Practical information
 - Institutional contents : for press and medias, partners and potential clients, sponsoring and patronage, researchers
 
+### Identity :
+The association wants to engage as many people as possible and wants to build an attractive image. 
+Science can be perceived as repulsive/frightening for people having bad memories about science classes,  or even be perceived as elitist or too complex.
+
+For this reason, the association focus on creating funny contents, putting interaction and experimentation at the core of there tools, using pop-culture references or aesthetics to make "friendly" scientific experiences. The goal is to create a positive image and experience that convince every curious people to discover exhibitions, conference, etc. and to give them the willing to come back. 
+
+By doing so, the association convey some scientific notions and gives to citizens the taste of science and, may be, an ability to read the world through the science reading grid. 
+
+### Disclaimer: 
 I might consider not to implement pages that would require a proper architecture with back-end and database in the context of this specific exercice. 
+
 ## DESIGNS
 ### Interface - Lists of contents :
 Theses lists of contents helps to anticipate the kind of contents of the website, ordered by topic or section.
@@ -103,6 +127,14 @@ Footer
 	Legal informations
 
 #### Styles by content/element
+| Element                                      | Style                                                                                                                                                                                       |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Banner on landing page                       | - Not a carousel because easy to miss information<br>- I'd like to try a container holding three banner that resize when hovered by mouse                                                   |
+| Current offers                               | Some cards for each offer with informations such as dates, title, an image, may be a short summary                                                                                          |
+| Ticketing service                            | I must consider a special style, and may be a way to quickly go to the ticketing service page no matter where visitors are                                                                  |
+| Floating element (cookies, accessibility...) | Probably a gear icone. Have to choose if it opens a modal or a little card just above the icon with a little nav so you can choose to display cookie settings, accessibility settings, etc. |
+| Practical information                        | A single page with ancors to navigate from a section to another - mean a second navigation ? bad idea ?                                                                                     |
+
 
 #### General information styles :
 | Information         | Style                                                                          |
