@@ -22,13 +22,14 @@ The association evolve in the field of scientific culture and popularization. In
 \# Core targets
 1. Families, general publics - looking for exhibitions, workshops for kids
 2. Schools - looking for exhibitions and visits for pedagogical purposes
-3. Young adults and teenagers - looking for special events about science (conference)
-\# Secondaries targets
+3. Young adults and teenagers - looking for special events about science (conference)<br>
+\# Secondaries targets<br>
 4. Cultural sector actors - looking for ressources (light exhibitions to rent) and/or help to build a project
 5. Press - looking for first hand communication elements
 6. Public financiers - to give information on association activities that fulfil public policies
 7. Private partners - that want to support/get involved  with the association for image consideration
 8. Volunteers that would like to join volunteer communities - this is not a major consideration for the association because its activities rely mostly on fulltime employees
+
 
 ### Contents :
 - Current exhibitions
