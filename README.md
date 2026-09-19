@@ -164,3 +164,11 @@ Footer
 - Accessibility - keyboard navigation, contrast, screen readers compatible, aria labels if necessary
 - Good SEO, looks for good practices to improve SEO for AI
 - Aesthetic in prevailing trend
+
+## DESIGNS FILES
+
+### General considerations
+
+| Design | Note |
+|--|--|
+| Wireframes | Files in `./wireframes` needs to be open in Excalidraw app to be displayed |
